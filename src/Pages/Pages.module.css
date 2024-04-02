@@ -1,0 +1,111 @@
+.pagePadding {
+  padding: 1px 35px 35px 35px;
+}
+
+.titleText {
+  margin-bottom: 0.5em;
+  color: #001628;
+  font-weight: 600;
+  font-size: 38px;
+  line-height: 1.2105263157894737;
+  margin-top: 20px;
+}
+
+.titleText3 {
+  margin-bottom: 0.5em;
+  color: #001628;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.2105263157894737;
+  margin-top: 20px;
+}
+
+.titleText5 {
+  margin-bottom: 0.5em;
+  color: #001628;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.2105263157894737;
+  margin-top: 20px;
+}
+
+.width100 {
+  width: 100%;
+}
+
+.flexRowCenterSpaceBetween {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.flexRowCenter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.flexRowEnd {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.flexRowCenterWrap100 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.imageStyle {
+  width: 300px;
+  height: 300px;
+  margin: 5px;
+}
+
+.imageStyle2 {
+  /* width: 300px;
+  height: 300px; */
+  margin: 5px;
+  display: block;
+  max-width:300px;
+  max-height:300px;
+  width: auto;
+  height: auto;
+}
+
+.carouselStyle {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center
+}
+
+.flexRowCenterContactInfo {
+  margin-top: 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+}
+
+.flexRowCenterContactInfoBold {
+  font-weight: 500;
+  margin-top: 40px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
