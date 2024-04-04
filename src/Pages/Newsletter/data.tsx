@@ -72,7 +72,7 @@ export const newsletters: CollapseProps['items'] = [
   {
     key: '2024',
     label: '2024',
-    children: <NewsletterData year={2024} jan feb/>,
+    children: <NewsletterData year={2024} jan feb mar/>,
   }, {
     key: '2023',
     label: '2023',
