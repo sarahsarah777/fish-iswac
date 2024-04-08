@@ -58,7 +58,7 @@ export const tripsData: DataType[] = [
         bunk: 'elDoradoBunkLayout',
     }, {
         key: '6',
-        dates: 'June 26 - July 1',
+        dates: 'June 29 - July 1',
         boat: 'Apollo',
         landing: `22nd Street`,
         meals: false,
